@@ -1,6 +1,4 @@
-Certamente! Ecco una guida organizzata e chiara basata sulla documentazione fornita per il progetto **nuovoidecobol**.
-
----
+# Guida al mio nuovoidecobol
 
 # 🚀 Guida Rapida: nuovoidecobol
 
