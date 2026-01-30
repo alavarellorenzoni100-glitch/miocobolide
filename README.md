@@ -86,4 +86,3 @@ Segui questi passaggi per testare l'installazione:
 
 > **Nota:** Il progetto è rilasciato sotto licenza **Apache License 2.0**.
 
-Vorresti che ti aiutassi a personalizzare lo script di avvio `start-ide-cobol.sh` per utilizzare la versione Python o Node.js invece di quella in C?
